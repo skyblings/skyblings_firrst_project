@@ -1,0 +1,77 @@
+
+
+/*****************header section*********************/
+#header_1.jumbotron {
+	border: 2px solid;  
+	border-color: cyan;
+    padding-top: 48px;
+    padding-bottom: 48px;
+    margin-top: 20px;
+    border-bottom-color: #E91E63;
+    border-radius: 87px;
+    
+}
+.navbar {
+    border-radius: 30px;
+ }
+.header_wrapper{
+	border: 2px solid;  
+	border-color: cyan;  
+    border-radius: 87px;    
+    background-color: darkcyan;
+	width: 1303px;
+    height: 169px;
+}
+/*#header_wrapper:hover{
+	background-color: navajowhite;
+	width: 1203px;
+    height: 169px;
+}*/
+p.header_text{
+	font-size: 3vw;
+	font-weight: bold;
+	color:#542e23;
+}
+/******************header navigation section************/
+nav.navbar{
+	margin-left: 240px;
+	margin-top: -18px;
+	width: fit-content;
+    padding-left: 29px;
+    padding-top: 7px;
+    border: 2px solid;
+    border-color: #06f7f7;
+    border-bottom-color: #E91E63;
+}
+.nav a{
+	color: black;
+	font-size: 27px;
+	font-weight: 50%;
+	padding: 10px 32px 10px 20px;
+	text-decoration: none;
+
+}
+.nav a:hover{
+	color: #607d8b;
+}
+/********************body starts here*****************/
+.intro{
+	border: 1px solid;
+}
+#intro_row{
+	padding: 10px;
+}
+aside{
+	width: fit-content;
+	height: fit-content;
+	border: 1px solid;
+	border-color: #a7dcd7;
+	border-radius: 10px;
+}
+section{
+	width: fit-content;
+	height: fit-content;
+	border: 1px solid;
+	border-color: #a7dcd7;
+	border-radius: 10px;
+}
